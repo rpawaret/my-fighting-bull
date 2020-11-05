@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "my-fighting-bull"
+  },
+  "targets": {
+    "my-fighting-bull": {
+      "hosting": {
+        "my-fighting-bull": [
+          "my-fighting-bull"
+        ]
+      }
+    }
   }
 }

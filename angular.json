@@ -117,8 +117,13 @@
               "devServerTarget": "my-fighting-bull:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "my-fighting-bull"
 }
