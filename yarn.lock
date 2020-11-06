@@ -121,6 +121,13 @@
     ora "5.0.0"
     rxjs "6.6.2"
 
+"@angular-material-extensions/password-strength@^7.0.0":
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/@angular-material-extensions/password-strength/-/password-strength-7.0.0.tgz#8979978107b122d65da35ece8bddebf69f6560c6"
+  integrity sha512-lHIHuhxo4PadnfPQdTC50ehlFuzEIaenWhSkN/tMTL1FVAh+8GB0QspyLmL7pqGLpMpS1NidE5v1aidbLmO/VQ==
+  dependencies:
+    tslib "^2.0.0"
+
 "@angular/animations@~10.2.0":
   version "10.2.2"
   resolved "https://registry.yarnpkg.com/@angular/animations/-/animations-10.2.2.tgz#aa458c12e9cfb19792f5b72239a2fedb8b6bfa9c"
@@ -4950,7 +4957,7 @@ firebase-tools@^8.0.0:
     winston "^3.0.0"
     ws "^7.2.3"
 
-"firebase@^7.0.0 || ^8.0.0":
+firebase@^8.0.0:
   version "8.0.0"
   resolved "https://registry.yarnpkg.com/firebase/-/firebase-8.0.0.tgz#786b3126d97b44073b1d48d01f78770963e03179"
   integrity sha512-0JMwNGg5CeoYBJ27QuDYJe1pYdJ+lspKbK1Pr+aNtYBfJfZTNy265rRroQsSOTGbXiT6cUqObVPeGwnbi8wZHw==
